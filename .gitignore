@@ -1,0 +1,10 @@
+# Environment variables
+.env
+
+# Byte-compiled
+__pycache__
+
+.DS_Store
+
+# Virtual environment
+backenv
